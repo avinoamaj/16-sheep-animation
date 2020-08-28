@@ -1802,9 +1802,9 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/blackboardbackground.jpg?1598600829278", id:"blackboardbackground"},
-		{src:"images/keves_atlas_1.png?1598600828971", id:"keves_atlas_1"},
-		{src:"sounds/יונירכטרהכבשהשישהעשרלילהטוב_.mp3?1598600829278", id:"יונירכטרהכבשהשישהעשרלילהטוב"}
+		{src:"images/blackboardbackground.jpg", id:"blackboardbackground"},
+		{src:"images/keves_atlas_1.png", id:"keves_atlas_1"},
+		{src:"sounds/יונירכטרהכבשהשישהעשרלילהטוב_.mp3", id:"יונירכטרהכבשהשישהעשרלילהטוב"}
 	],
 	preloads: []
 };
